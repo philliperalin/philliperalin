@@ -1,5 +1,7 @@
 ![Cover](https://github.com/philliperalin/philliperalin/blob/main/assets/profile-banner.png)
 
+# 🚧 Work In Progress 🚧
+
 ### Hi there 👋
 
 **philliperalin/philliperalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
