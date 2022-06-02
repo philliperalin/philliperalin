@@ -23,4 +23,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-![](https://github.com/philliperalin/philliperalin/blob/main/assets/git-pikachu.gif)
+
+![git-pikachu](https://user-images.githubusercontent.com/58977523/171549338-1aba62e6-fb9c-4851-aaa8-5278c7bb4def.gif)
