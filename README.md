@@ -1,6 +1,6 @@
 ![Cover](https://github.com/philliperalin/philliperalin/blob/main/assets/profile-banner.png)
 
-# 🚧 Work In Progress 🚧
+# 🚧 Work In Progress 🚧 <img src="https://github.com/philliperalin/philliperalin/blob/main/assets/git-pikachu.gif" width="85">
 
 ### Hi there 👋
 
@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div align="center">
-  <a href="https://github.com/philliperalin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=philliperalin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="center">  
   
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philliperalin&theme=dark)](https://git.io/streak-stats)
+  <a href="https://github.com/philliperalin">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
+</p>
 
-![git-pikachu](https://user-images.githubusercontent.com/58977523/171549338-1aba62e6-fb9c-4851-aaa8-5278c7bb4def.gif)
+ 
