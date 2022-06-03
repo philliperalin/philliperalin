@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philliperalin&theme=dark)](https://git.io/streak-stats)
   <a href="https://github.com/philliperalin">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
  
