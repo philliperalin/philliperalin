@@ -1,22 +1,28 @@
 ![Cover](https://github.com/philliperalin/philliperalin/blob/main/assets/profile-banner.png)
 
-# 🚧 Work In Progress 🚧 <img src="https://github.com/philliperalin/philliperalin/blob/main/assets/git-pikachu.gif" width="85">
+## Hi there 👋
+### 🔭 Things I am currently working on:
+- Undergraduate Thesis
+- Analysis of pumping tests data using [welltestpy](https://geostat-framework.readthedocs.io/projects/welltestpy/en/stable/)
+- Wellfield project in Caçapava - SP, Brazil
+- Graduate application
+- Personal Webpage
 
-### Hi there 👋
+### 🌱 I am currently learning:
+- Interactive Data Visualization: [Streamlit](https://streamlit.io/) and [PowerBI](https://powerbi.microsoft.com/en-us/)
+- Groundwater Flow Modeling: [OpenGeoSys](https://www.opengeosys.org/) and [ogs5py](https://github.com/GeoStat-Framework/ogs5py)
+- Petroleum Geology and Probabilistic Models
 
-**philliperalin/philliperalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :dart: Goals for 2022:
+- [ ] Apply for good fit Graduate Programs
+- [ ] Write a Scientific Paper
 
-Here are some ideas to get you started:
+### :computer: Programming Languages and Tools:
+- ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+- ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">  
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philliperalin&theme=dark)](https://git.io/streak-stats)
@@ -24,4 +30,9 @@ Here are some ideas to get you started:
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
+### 📫 How to reach me: 
+
+- phillipe@usp.br
+- [LinkedIn](https://www.linkedin.com/in/philliperalin/)
+- Webpage (:construction: working in progress :construction:) <img src="https://github.com/philliperalin/philliperalin/blob/main/assets/git-pikachu.gif" width="30"> 
  
