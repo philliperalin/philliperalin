@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<table>
+<table align="center">
 <tr>
   <th> <h3> 🔭 Things I am currently working on </h3> </th>
   <th> <h3> 🌱 I am currently learning </h3> </th>
@@ -27,7 +27,7 @@
 </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
   <th> <h3> :computer: Programming Languages and Tools </h3> </th>
   <th> <h3> :dart: Goals for 2022 </h3> </th>
@@ -52,9 +52,7 @@
 
 <p align="center">  
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philliperalin&theme=dark)](https://git.io/streak-stats)
-  <a href="https://github.com/philliperalin">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philliperalin&theme=dark)](https://git.io/streak-stats) <a href="https://github.com/philliperalin"> <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ---  
