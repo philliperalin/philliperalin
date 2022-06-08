@@ -50,9 +50,11 @@
 </tr>
 </table>
 
-<p align="center">  
+<p>  
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philliperalin&theme=dark)](https://git.io/streak-stats) <a href="https://github.com/philliperalin"> <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philliperalin&theme=dark)](https://git.io/streak-stats) 
+  <a href="https://github.com/philliperalin"> 
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philliperalin&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ---  
