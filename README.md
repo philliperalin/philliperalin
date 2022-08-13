@@ -12,15 +12,13 @@
 
 - Undergraduate Thesis
 - Analysis of pumping tests data using [welltestpy](https://geostat-framework.readthedocs.io/projects/welltestpy/en/stable/)
-- Wellfield project in Caçapava - SP, Brazil
 - Graduate application
-- Personal Webpage
 
 </td>
 <td>
 
 - Interactive Data Visualization: [Streamlit](https://streamlit.io/) and [PowerBI](https://powerbi.microsoft.com/en-us/)
-- Groundwater Flow Modeling: [OpenGeoSys](https://www.opengeosys.org/) and [ogs5py](https://github.com/GeoStat-Framework/ogs5py)
+- Groundwater Flow Modeling: [OpenGeoSys](https://www.opengeosys.org/), [ogs5py](https://github.com/GeoStat-Framework/ogs5py), and [Modflow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model)
 - Petroleum Geology and Probabilistic Models
 
 </td>
@@ -63,5 +61,5 @@
 
 - phillipe@usp.br
 - [LinkedIn](https://www.linkedin.com/in/philliperalin/)
-- Webpage (:construction: working in progress :construction:) <img src="https://github.com/philliperalin/philliperalin/blob/main/assets/git-pikachu.gif" width="30"> 
+- [Webpage](https://philliperalin.github.io/index.html)
  
