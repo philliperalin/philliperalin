@@ -1,4 +1,3 @@
-![Cover](https://github.com/philliperalin/philliperalin/blob/main/assets/profile-banner.png)
 
 ## Hi there 👋
 
@@ -10,16 +9,16 @@
 <tr>
 <td>
 
-- Undergraduate Thesis
-- Analysis of pumping tests data using [welltestpy](https://geostat-framework.readthedocs.io/projects/welltestpy/en/stable/)
-- Graduate application
+- Injection capacity mapping
+- Groundwater flow and transport in fractured rocks
+- Graduate program
 
 </td>
 <td>
 
-- Interactive Data Visualization: [Streamlit](https://streamlit.io/) and [PowerBI](https://powerbi.microsoft.com/en-us/)
-- Groundwater Flow Modeling: [OpenGeoSys](https://www.opengeosys.org/), [ogs5py](https://github.com/GeoStat-Framework/ogs5py), and [Modflow](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model)
-- Petroleum Geology and Probabilistic Models
+- [DFNWorks](https://dfnworks.lanl.gov/index_docs.html#) and [PFLOTRAN](https://www.pflotran.org/)
+  for numerical simulation of groundwater flow and tranport in fractured rocks.
+
 
 </td>
 </tr>
@@ -28,7 +27,7 @@
 <table align="center">
 <tr>
   <th> <h3> :computer: Programming Languages and Tools </h3> </th>
-  <th> <h3> :dart: Goals for 2022 </h3> </th>
+  
 </tr>
 <tr>
 <td>
@@ -39,12 +38,8 @@
 - ![](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 </td>
-<td>
 
-- [ ] Apply for good fit Graduate Programs
-- [ ] Write a Scientific Paper
 
-</td>
 </tr>
 </table>
 
